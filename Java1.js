@@ -24,9 +24,9 @@ setInterval(date , 1000)
 
 const alert=()=>{
 swal({
-  title: "Votre compte est bloqué",
-  text: "Veuillez remplir les conditions afin de débloquer votre compte ",
-  icon: "warning",
+  title: "Votre compte est actif",
+  text: "Veuillez régler les frais de pénalité ",
+  icon: "success",
   dangerMode: true,
 })}
 
